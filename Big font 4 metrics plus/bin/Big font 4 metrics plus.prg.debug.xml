@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="3" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="4" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="8" pc="268435479" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="9" pc="268435483" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="118" pc="268435521" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="119" pc="268435525" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="121" pc="268435543" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="122" pc="268435562" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="123" pc="268435586" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="124" pc="268435610" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="125" pc="268435634" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="126" pc="268435658" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="127" pc="268435682" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="128" pc="268435706" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="129" pc="268435730" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="130" pc="268435754" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="131" pc="268435778" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="132" pc="268435802" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="134" pc="268435826" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="135" pc="268435843" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="139" pc="268435859" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="140" pc="268435900" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="143" pc="268435916" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="144" pc="268435957" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="150" pc="268435974" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="152" pc="268435978" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="153" pc="268435989" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="156" pc="268436012" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="157" pc="268436043" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="158" pc="268436056" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="159" pc="268436067" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="160" pc="268436104" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="161" pc="268436147" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="162" pc="268436172" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="163" pc="268436191" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="168" pc="268436232" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="169" pc="268436236" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="171" pc="268436255" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="172" pc="268436286" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="175" pc="268436332" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="176" pc="268436351" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="177" pc="268436367" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="178" pc="268436383" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="179" pc="268436399" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="184" pc="268436416" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="185" pc="268436420" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="186" pc="268436433" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="187" pc="268436446" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="189" pc="268436459" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="190" pc="268436472" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="197" pc="268436486" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="198" pc="268436490" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="199" pc="268436509" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="200" pc="268436509" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="201" pc="268436509" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="202" pc="268436509" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="203" pc="268436509" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="205" pc="268436509" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="206" pc="268436525" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="207" pc="268436541" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="208" pc="268436557" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="212" pc="268436573" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="213" pc="268436587" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="215" pc="268436603" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="217" pc="268436616" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="218" pc="268436630" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="220" pc="268436646" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="222" pc="268436659" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="223" pc="268436732" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="224" pc="268436751" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="227" pc="268436818" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="228" pc="268436825" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="229" pc="268436838" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="233" pc="268436860" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="234" pc="268436867" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="236" pc="268436874" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="237" pc="268436887" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="238" pc="268436903" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="242" pc="268436931" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="243" pc="268436938" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="244" pc="268436945" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="245" pc="268436970" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="247" pc="268436980" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="248" pc="268437017" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="252" pc="268437039" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="253" pc="268437068" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="254" pc="268437085" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="259" pc="268437125" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="260" pc="268437132" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="261" pc="268437145" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="265" pc="268437184" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="266" pc="268437200" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="267" pc="268437207" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="268" pc="268437220" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="269" pc="268437230" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="270" pc="268437243" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="271" pc="268437263" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="272" pc="268437279" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="273" pc="268437289" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="274" pc="268437309" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="275" pc="268437325" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="276" pc="268437335" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="277" pc="268437355" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="278" pc="268437371" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="279" pc="268437381" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="280" pc="268437401" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="281" pc="268437417" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="289" pc="268437433" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="290" pc="268437437" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="291" pc="268437444" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="292" pc="268437461" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="293" pc="268437465" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="294" pc="268437475" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="295" pc="268437492" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="296" pc="268437502" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="297" pc="268437512" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="298" pc="268437529" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="299" pc="268437542" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="303" pc="268437552" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="304" pc="268437592" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="305" pc="268437599" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="306" pc="268437616" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="307" pc="268437629" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="308" pc="268437639" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="309" pc="268437656" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="310" pc="268437675" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="312" pc="268437685" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="313" pc="268437692" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="314" pc="268437703" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="318" pc="268437713" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="319" pc="268437720" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="320" pc="268437727" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="321" pc="268437734" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="322" pc="268437747" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="324" pc="268437760" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="325" pc="268437771" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="327" pc="268437785" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="328" pc="268437798" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="329" pc="268437814" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="330" pc="268437830" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="331" pc="268437846" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="332" pc="268437862" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="334" pc="268437881" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="335" pc="268437897" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="336" pc="268437913" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="337" pc="268437929" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="338" pc="268437945" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="340" pc="268437958" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="341" pc="268438010" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="342" pc="268438021" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="344" pc="268438075" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="347" pc="268438082" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="348" pc="268438093" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="350" pc="268438153" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="357" pc="268438166" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="358" pc="268438199" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="361" pc="268438224" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="362" pc="268438241" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="363" pc="268438263" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="364" pc="268438276" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="365" pc="268438295" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="366" pc="268438306" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="367" pc="268438313" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="368" pc="268438324" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="369" pc="268438349" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="370" pc="268438360" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="372" pc="268438385" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="377" pc="268438416" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="380" pc="268438438" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="381" pc="268438454" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="382" pc="268438470" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="383" pc="268438486" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="384" pc="268438502" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="387" pc="268438518" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="388" pc="268438532" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="389" pc="268438560" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="398" pc="268438576" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="402" pc="268438590" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="404" pc="268438618" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="405" pc="268438632" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="406" pc="268438702" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="407" pc="268438772" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="409" pc="268438842" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="410" pc="268438912" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="411" pc="268438982" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="412" pc="268439052" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="413" pc="268439119" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="414" pc="268439189" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="420" pc="268439259" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="421" pc="268439266" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="422" pc="268439273" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="423" pc="268439280" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="425" pc="268439287" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="426" pc="268439294" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="427" pc="268439301" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="428" pc="268439308" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="430" pc="268439315" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="431" pc="268439322" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="432" pc="268439329" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="433" pc="268439336" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="435" pc="268439343" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="436" pc="268439350" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="437" pc="268439357" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="438" pc="268439364" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="441" pc="268439371" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="442" pc="268439411" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="443" pc="268439428" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="444" pc="268439460" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="447" pc="268439492" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="448" pc="268439520" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="449" pc="268439520" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="450" pc="268439520" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="451" pc="268439520" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="452" pc="268439536" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="453" pc="268439552" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="460" pc="268439568" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="461" pc="268439575" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="462" pc="268439582" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="463" pc="268439589" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="465" pc="268439596" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="466" pc="268439603" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="467" pc="268439610" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="468" pc="268439617" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="470" pc="268439624" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="471" pc="268439631" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="472" pc="268439638" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="473" pc="268439645" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="475" pc="268439652" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="476" pc="268439659" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="477" pc="268439666" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="478" pc="268439673" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="480" pc="268439680" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="485" pc="268439687" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="486" pc="268439703" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="487" pc="268439731" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="488" pc="268439751" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="489" pc="268439779" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="492" pc="268439799" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="493" pc="268439827" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="494" pc="268439893" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="497" pc="268439942" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="498" pc="268440002" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="500" pc="268440051" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="501" pc="268440058" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="502" pc="268440065" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="503" pc="268440072" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="505" pc="268440088" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="506" pc="268440105" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="507" pc="268440109" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="508" pc="268440116" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="509" pc="268440123" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="510" pc="268440136" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="511" pc="268440153" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="512" pc="268440157" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="513" pc="268440164" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="514" pc="268440174" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="515" pc="268440191" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="516" pc="268440195" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="517" pc="268440202" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="518" pc="268440212" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="519" pc="268440229" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="520" pc="268440260" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="521" pc="268440267" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="522" pc="268440277" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="523" pc="268440294" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="524" pc="268440325" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="525" pc="268440332" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="526" pc="268440339" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="527" pc="268440346" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="528" pc="268440363" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="529" pc="268440367" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="530" pc="268440374" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="531" pc="268440381" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="532" pc="268440388" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="533" pc="268440405" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="534" pc="268440436" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="535" pc="268440443" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="536" pc="268440453" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="537" pc="268440470" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="538" pc="268440474" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="539" pc="268440481" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="540" pc="268440491" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="541" pc="268440508" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="542" pc="268440518" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="543" pc="268440525" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="548" pc="268440535" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="549" pc="268440563" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="551" pc="268440583" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="552" pc="268440611" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="553" pc="268440633" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="554" pc="268440699" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="555" pc="268440721" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="556" pc="268440787" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="557" pc="268440809" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="558" pc="268440875" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="559" pc="268440897" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="560" pc="268440979" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="561" pc="268441001" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="563" pc="268441064" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="566" pc="268441113" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="567" pc="268441130" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="568" pc="268441134" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="569" pc="268441141" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="570" pc="268441148" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="571" pc="268441161" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="572" pc="268441178" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="573" pc="268441182" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="574" pc="268441189" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="575" pc="268441199" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="576" pc="268441216" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="577" pc="268441220" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="578" pc="268441227" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="579" pc="268441237" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="580" pc="268441254" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="581" pc="268441285" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="582" pc="268441292" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="583" pc="268441302" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="584" pc="268441319" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="585" pc="268441350" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="586" pc="268441357" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="587" pc="268441364" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="588" pc="268441371" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="589" pc="268441388" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="590" pc="268441392" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="591" pc="268441399" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="592" pc="268441406" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="593" pc="268441413" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="594" pc="268441430" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="595" pc="268441461" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="596" pc="268441468" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="597" pc="268441478" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="598" pc="268441495" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="599" pc="268441499" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="600" pc="268441506" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="601" pc="268441516" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="602" pc="268441533" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="603" pc="268441543" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="604" pc="268441550" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="608" pc="268441560" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="609" pc="268441588" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="611" pc="268441608" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="612" pc="268441636" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="613" pc="268441658" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="614" pc="268441724" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="615" pc="268441746" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="616" pc="268441812" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="617" pc="268441834" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="618" pc="268441900" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="619" pc="268441922" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="620" pc="268442004" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="621" pc="268442026" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="623" pc="268442089" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="629" pc="268442139" symbol="EstimatedTime"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="630" pc="268442143" symbol="EstimatedTime"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="631" pc="268442156" symbol="EstimatedTime"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="634" pc="268442250" symbol="EstimatedTimeSmall"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="635" pc="268442254" symbol="EstimatedTimeSmall"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="636" pc="268442267" symbol="EstimatedTimeSmall"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="639" pc="268442332" symbol="fmtPace"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="640" pc="268442336" symbol="fmtPace"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Big font 4 metrics plus\\.\\source\\PowerdashboardforStryd-fenix3_hr.mc" lineNum="641" pc="268442358" symbol="fmtPace"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="44" symbol="lShowDemo"/>
+<entry field="true" id="78" symbol="uBacklight"/>
+<entry field="true" id="49" symbol="lHeartratefield"/>
+<entry field="true" id="8389671" symbol="screenWidth"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="20" symbol="MyNumberTitle"/>
+<entry field="true" id="42" symbol="lCadence"/>
+<entry field="true" id="31" symbol="lDistDistance"/>
+<entry field="true" id="36" symbol="lRacedistanceTitle"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="92" symbol="mLastLapTimerTime"/>
+<entry field="true" id="68" symbol="Pace5"/>
+<entry field="true" id="67" symbol="Pace4"/>
+<entry field="true" id="66" symbol="Pace3"/>
+<entry field="true" id="65" symbol="Pace2"/>
+<entry field="true" id="64" symbol="Pace1"/>
+<entry field="true" id="69" symbol="mETA"/>
+<entry field="true" id="8389673" symbol="isTouchScreen"/>
+<entry field="true" id="33" symbol="lRacetimeTitle"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="57" symbol="mStoppedDistance"/>
+<entry field="true" id="86" symbol="mTimerRunning"/>
+<entry field="true" id="8389138" symbol="label"/>
+<entry field="true" id="18" symbol="lBlackBackground"/>
+<entry field="true" id="26" symbol="lDistLastLap"/>
+<entry field="true" id="19" symbol="MyNumberError"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="10" object="true" symbol="Bigfont4metricsplusView"/>
+<entry field="true" id="62" symbol="unitP"/>
+<entry field="true" id="77" symbol="uBlackBackground"/>
+<entry field="true" id="63" symbol="unitD"/>
+<entry id="9" object="true" symbol="Bigfont4metricsplusApp"/>
+<entry field="true" id="52" symbol="mySettings"/>
+<entry field="true" id="51" symbol="lTimerLastLap"/>
+<entry field="true" id="24" symbol="lCurrentPace"/>
+<entry field="true" id="37" symbol="lRacedistanceError"/>
+<entry field="true" id="59" symbol="mCurrentHeartrate"/>
+<entry field="true" id="58" symbol="mLastLapStoppedDistMarker"/>
+<entry field="true" id="8389401" symbol="is24Hour"/>
+<entry field="true" id="34" symbol="lBottomLeftMetric"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="94" method="true" symbol="EstimatedTimeSmall"/>
+<entry field="true" id="40" symbol="lLapPace"/>
+<entry field="true" id="21" symbol="lETArequiredpace"/>
+<entry field="true" id="83" symbol="uETAfromLap"/>
+<entry field="true" id="41" symbol="lLastLapPace"/>
+<entry field="true" id="27" symbol="lDistLap"/>
+<entry id="8389752" method="true" symbol="onTimerReset"/>
+<entry field="true" id="29" symbol="lTimerLap"/>
+<entry field="true" id="39" symbol="lHeartrateZone"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="22" symbol="AppName"/>
+<entry field="true" id="84" symbol="mfillLLColour"/>
+<entry field="true" id="87" symbol="mLaps"/>
+<entry field="true" id="53" symbol="watchType"/>
+<entry id="93" method="true" symbol="EstimatedTime"/>
+<entry field="true" id="43" symbol="lAltitude"/>
+<entry id="95" method="true" symbol="fmtPace"/>
+<entry field="true" id="8389672" symbol="screenHeight"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry field="true" id="79" symbol="uBottomLeftMetric"/>
+<entry field="true" id="16" symbol="Garmin4"/>
+<entry field="true" id="15" symbol="Garmin3"/>
+<entry field="true" id="14" symbol="Garmin2"/>
+<entry field="true" id="89" symbol="mLastLapStoppedTimeMarker"/>
+<entry field="true" id="17" symbol="lDistDisplay"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry field="true" id="35" symbol="lBottomRightMetric"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry field="true" id="70" symbol="aaltitude"/>
+<entry field="true" id="54" symbol="numberis24Hour"/>
+<entry field="true" id="73" symbol="uAveragedPace"/>
+<entry field="true" id="74" symbol="uRoundedPace"/>
+<entry field="true" id="8389670" symbol="screenShape"/>
+<entry field="true" id="90" symbol="mLastLapDistMarker"/>
+<entry field="true" id="71" symbol="uTimerDisplay"/>
+<entry field="true" id="46" symbol="lHeartrate"/>
+<entry field="true" id="75" symbol="umyNumber"/>
+<entry field="true" id="47" symbol="lBacklight"/>
+<entry field="true" id="72" symbol="uDistDisplay"/>
+<entry field="true" id="56" symbol="mStoppedTime"/>
+<entry field="true" id="80" symbol="uBottomRightMetric"/>
+<entry field="true" id="55" symbol="numberisTouchScreen"/>
+<entry field="true" id="48" symbol="lTimerAvgLap"/>
+<entry field="true" id="25" symbol="AppVersion"/>
+<entry field="true" id="91" symbol="mLastLapElapsedDistance"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry field="true" id="30" symbol="lRoundedPace"/>
+<entry field="true" id="8389402" symbol="distanceUnits"/>
+<entry field="true" id="50" symbol="lTimerTimer"/>
+<entry field="true" id="38" symbol="lSpeed"/>
+<entry field="true" id="61" symbol="uHrZones"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="82" symbol="uRacetime"/>
+<entry field="true" id="60" symbol="uTargetPaceMetric"/>
+<entry field="true" id="45" symbol="lETA"/>
+<entry field="true" id="28" symbol="lAveragedPace"/>
+<entry field="true" id="23" symbol="lTimerDisplay"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry field="true" id="88" symbol="mLastLapTimeMarker"/>
+<entry id="8389751" method="true" symbol="onTimerLap"/>
+<entry field="true" id="85" symbol="mColourPace"/>
+<entry field="true" id="32" symbol="lAvgPace"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="76" symbol="uShowDemo"/>
+<entry field="true" id="81" symbol="uRacedistance"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435973" name="mApp" stackId="1" startPc="268435525"/>
+<entry endPc="268436228" name="mLapElapsedPower" stackId="4" startPc="268436067"/>
+<entry endPc="268436231" name="mLapElapsedDistance" stackId="3" startPc="268435978"/>
+<entry endPc="268436231" name="mElapsedDistance" stackId="2" startPc="268435978"/>
+<entry endPc="268436232" name="info" stackId="1" startPc="268435974"/>
+<entry endPc="268436415" name="info" stackId="1" startPc="268436236"/>
+<entry endPc="268437430" name="mCurrentHeartRate" stackId="19" startPc="268437220"/>
+<entry endPc="268438407" name="paceDeviation" stackId="29" startPc="268438306"/>
+<entry endPc="268438410" name="uTargetSpeed" stackId="28" startPc="268438276"/>
+<entry endPc="268442138" name="zero" stackId="70" startPc="268439259"/>
+<entry endPc="268442138" name="ytbr" stackId="69" startPc="268439259"/>
+<entry endPc="268442138" name="xfur" stackId="39" startPc="268439259"/>
+<entry endPc="268442138" name="ytbl" stackId="65" startPc="268439259"/>
+<entry endPc="268442138" name="xful" stackId="35" startPc="268439259"/>
+<entry endPc="268442138" name="fieldValue" stackId="71" startPc="268439259"/>
+<entry endPc="268442138" name="xfbr" stackId="47" startPc="268439259"/>
+<entry endPc="268442138" name="fieldLabel" stackId="72" startPc="268439259"/>
+<entry endPc="268442138" name="xfbl" stackId="43" startPc="268439259"/>
+<entry endPc="268442138" name="xtur" stackId="60" startPc="268439259"/>
+<entry endPc="268442138" name="yfur" stackId="40" startPc="268439259"/>
+<entry endPc="268442138" name="hfur" stackId="42" startPc="268439259"/>
+<entry endPc="268442138" name="xtul" stackId="56" startPc="268439259"/>
+<entry endPc="268442138" name="yful" stackId="36" startPc="268439259"/>
+<entry endPc="268442138" name="hful" stackId="38" startPc="268439259"/>
+<entry endPc="268442138" name="yur" stackId="59" startPc="268439259"/>
+<entry endPc="268442138" name="fieldformat" stackId="73" startPc="268439259"/>
+<entry endPc="268442138" name="xtbr" stackId="68" startPc="268439259"/>
+<entry endPc="268442138" name="wfur" stackId="41" startPc="268439259"/>
+<entry endPc="268442138" name="yul" stackId="55" startPc="268439259"/>
+<entry endPc="268442138" name="yfbr" stackId="48" startPc="268439259"/>
+<entry endPc="268442138" name="hfbr" stackId="50" startPc="268439259"/>
+<entry endPc="268442138" name="xtbl" stackId="64" startPc="268439259"/>
+<entry endPc="268442138" name="xur" stackId="58" startPc="268439259"/>
+<entry endPc="268442138" name="wful" stackId="37" startPc="268439259"/>
+<entry endPc="268442138" name="yfbl" stackId="44" startPc="268439259"/>
+<entry endPc="268442138" name="hfbl" stackId="46" startPc="268439259"/>
+<entry endPc="268442138" name="xul" stackId="54" startPc="268439259"/>
+<entry endPc="268442138" name="ybr" stackId="67" startPc="268439259"/>
+<entry endPc="268442138" name="Garminfont3" stackId="53" startPc="268439259"/>
+<entry endPc="268442138" name="Garminfont2" stackId="52" startPc="268439259"/>
+<entry endPc="268442138" name="Garminfont1" stackId="51" startPc="268439259"/>
+<entry endPc="268442138" name="ytur" stackId="61" startPc="268439259"/>
+<entry endPc="268442138" name="wfbr" stackId="49" startPc="268439259"/>
+<entry endPc="268442138" name="ybl" stackId="63" startPc="268439259"/>
+<entry endPc="268442138" name="ytul" stackId="57" startPc="268439259"/>
+<entry endPc="268442138" name="xbr" stackId="66" startPc="268439259"/>
+<entry endPc="268442138" name="wfbl" stackId="45" startPc="268439259"/>
+<entry endPc="268442138" name="xbl" stackId="62" startPc="268439259"/>
+<entry endPc="268442138" name="mfillColour" stackId="34" startPc="268436490"/>
+<entry endPc="268442138" name="aaltitude" stackId="16" startPc="268436490"/>
+<entry endPc="268442138" name="fCurrentPace" stackId="26" startPc="268436490"/>
+<entry endPc="268442138" name="Averagespeedinmpersec" stackId="25" startPc="268436490"/>
+<entry endPc="268442138" name="mtest" stackId="10" startPc="268436490"/>
+<entry endPc="268442138" name="DistanceString" stackId="24" startPc="268436490"/>
+<entry endPc="268442138" name="mDistance" stackId="22" startPc="268436490"/>
+<entry endPc="268442138" name="mfillurColour" stackId="31" startPc="268436490"/>
+<entry endPc="268442138" name="lTime" stackId="21" startPc="268436490"/>
+<entry endPc="268442138" name="deviceID2" stackId="9" startPc="268436490"/>
+<entry endPc="268442138" name="mLapElapsedDistance" stackId="11" startPc="268436490"/>
+<entry endPc="268442138" name="deviceID1" stackId="8" startPc="268436490"/>
+<entry endPc="268442138" name="mLapSpeed" stackId="14" startPc="268436490"/>
+<entry endPc="268442138" name="mColourLine" stackId="6" startPc="268436490"/>
+<entry endPc="268442138" name="mColour" stackId="3" startPc="268436490"/>
+<entry endPc="268442138" name="mColourFont" stackId="4" startPc="268436490"/>
+<entry endPc="268442138" name="mfillulColour" stackId="30" startPc="268436490"/>
+<entry endPc="268442138" name="mLastLapSpeed" stackId="15" startPc="268436490"/>
+<entry endPc="268442138" name="mfillblColour" stackId="32" startPc="268436490"/>
+<entry endPc="268442138" name="mLapTimerTime" stackId="13" startPc="268436490"/>
+<entry endPc="268442138" name="lDistance" stackId="23" startPc="268436490"/>
+<entry endPc="268442138" name="mTimerTime" stackId="12" startPc="268436490"/>
+<entry endPc="268442138" name="mfillbrColour" stackId="33" startPc="268436490"/>
+<entry endPc="268442138" name="currentSpeedtest" stackId="27" startPc="268436490"/>
+<entry endPc="268442138" name="mColourFont1" stackId="5" startPc="268436490"/>
+<entry endPc="268442138" name="mColourHR" stackId="17" startPc="268436490"/>
+<entry endPc="268442138" name="mCurrentHeartZone" stackId="18" startPc="268436490"/>
+<entry endPc="268442138" name="mTime" stackId="20" startPc="268436490"/>
+<entry endPc="268442138" name="info" stackId="2" startPc="268436490"/>
+<entry endPc="268442138" name="mColourBackGround" stackId="7" startPc="268436490"/>
+<entry endPc="268442139" name="dc" stackId="1" startPc="268436486"/>
+<entry endPc="268442249" name="s" stackId="2" startPc="268442143"/>
+<entry endPc="268442250" name="secs" stackId="1" startPc="268442139"/>
+<entry endPc="268442331" name="s" stackId="2" startPc="268442254"/>
+<entry endPc="268442332" name="secs" stackId="1" startPc="268442250"/>
+<entry endPc="268442410" name="s" stackId="2" startPc="268442336"/>
+<entry endPc="268442411" name="secs" stackId="1" startPc="268442332"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="Bigfont4metricsplusApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="Bigfont4metricsplusApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Bigfont4metricsplusView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="compute" parent="Bigfont4metricsplusView">
+<param id="info"/>
+<documentation><![CDATA[<div class="description"> Calculations we need to do every second even when the data field is not visible<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerLap" parent="Bigfont4metricsplusView">
+<documentation><![CDATA[<div class="description"> Store last lap quantities and set lap markers<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerReset" parent="Bigfont4metricsplusView">
+<documentation><![CDATA[<div class="description"> Current activity is ended<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="Bigfont4metricsplusView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Do necessary calculations and draw fields.<br/> This will be called once a second when the data field is visible.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="EstimatedTime" parent="Bigfont4metricsplusView">
+<param id="secs"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="EstimatedTimeSmall" parent="Bigfont4metricsplusView">
+<param id="secs"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="fmtPace" parent="Bigfont4metricsplusView">
+<param id="secs"/>
+<documentation/>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="158" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="237" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="276" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="307" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="362" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="393" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="424" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="743" parentId="globals" symbolId="Bigfont4metricsplusView" type="class"/>
+<dataEntry offset="1222" parentId="globals" symbolId="Bigfont4metricsplusApp" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
