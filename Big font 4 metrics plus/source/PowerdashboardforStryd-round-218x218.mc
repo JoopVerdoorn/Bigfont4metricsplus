@@ -585,6 +585,7 @@ class Bigfont4metricsplusView extends Toybox.WatchUi.DataField {
             fieldformat = "1decimal";
             mfillblColour = mColourPace;
         } else if (uBottomLeftMetric == 5) {
+        var mCurrentHeartRate=0;
             fieldValue = (info.currentHeartRate != null) ? mCurrentHeartRate : 0;
             fieldLabel = "HR";
             fieldformat = "0decimal";

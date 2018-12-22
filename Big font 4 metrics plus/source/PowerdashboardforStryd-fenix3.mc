@@ -156,14 +156,13 @@ class Bigfont4metricsplusView extends Toybox.WatchUi.DataField {
 		var mPowerTime;
 		var mElapsedPower;
         var mElapsedDistance    = (info.elapsedDistance != null) ? info.elapsedDistance : 0.0;
-        var mLapElapsedDistance = mElapsedDistance - mLastLapDistMarker;
         if (mTimerRunning) {  //! We only do some calculations if the timer is running
             mCurrentPower    = (info.currentPower != null) ? info.currentPower : 0;
             mPowerTime		 = (info.currentPower != null) ? mPowerTime+1 : 0;
             mElapsedPower    = mElapsedPower + mCurrentPower;  
-        var mLapElapsedDistance = (mElapsedDistance != null and mLastLapDistMarker != null) ? mElapsedDistance - mLastLapDistMarker : 0;
+            var mLapElapsedDistance = (mElapsedDistance != null and mLastLapDistMarker != null) ? mElapsedDistance - mLastLapDistMarker : 0;
             mCurrentHeartrate    = (info.currentHeartRate != null) ? info.currentHeartRate : 0;
-        }
+       }
     }
 
     //! Store last lap quantities and set lap markers
